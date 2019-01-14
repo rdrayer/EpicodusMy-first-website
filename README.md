@@ -1,11 +1,13 @@
-# _{Application Name}_
+# My first Website
 
-#### _{Brief description of application}, {Date of current version}_
+#### This is my very first website created as a student at Epicodus in the winter of 2019!
+_{Brief description of application}, {Date of current version}_
 
-#### By _**{List of contributors}**_
+#### By: Roberta Drayer
+_**{List of contributors}**_
 
 ## Description
-
+This is a simple website about me, Roberta. It includes a few facts about myself and how I enjoy spending my time outside of work and school. 
 _{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
 
 ## Setup/Installation Requirements

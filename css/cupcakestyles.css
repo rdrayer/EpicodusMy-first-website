@@ -1,5 +1,5 @@
-h1 {
-  color: pink;
+body {
+  font-family: monospace;
 }
 
 .important {
@@ -8,13 +8,47 @@ h1 {
 }
 
 .list {
-  float: center;
-  width: 30px;
   font-style: bold;
-  background-color: gray;
 }
 
 .pop {
-  font-size: 20pt;
   font-style: bold;
+}
+
+.box {
+  margin: 10px;
+  border: 10px solid purple;
+  padding: 10px;
+  margin-right: 110px;
+}
+
+.flavors p {
+  font-style: italic;
+  color: blue;
+  font-size: 20px;
+}
+
+.flavors h2 {
+  font-size: 50px;
+}
+
+#choco span {
+  color: brown;
+  background-color: yellow;
+}
+
+@media screen and (max-width: 768px) and (min-width: 600px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+
+@media screen and (max-width: 580px) {
+    .flavors {
+      width: 300px;
+      float: left;
+      padding: 20px;
+      background-color: teal;
+  }
 }

@@ -6,3 +6,12 @@ h1 {
   color: red;
   font-style: italic;
 }
+
+.list {
+  font-style: bold;
+}
+
+.pop {
+  font-size: 20pt;
+  font-style: bold;
+}
